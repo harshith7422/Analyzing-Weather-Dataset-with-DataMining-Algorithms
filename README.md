@@ -4,4 +4,4 @@ The algorithms used are:
 1. Decision Tree
 2. Navie Bayes
 3. FP Tree
-4. Regression
+
