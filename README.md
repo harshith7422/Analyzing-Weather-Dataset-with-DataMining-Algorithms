@@ -1,5 +1,5 @@
 # Data-Mining-in-KNIME-
-Analyzing various datamining algorithms on Weather dataset
+Analyzing various datamining algorithms on a Weather dataset
 The algorithms used are:
 1. Decision Tree: They represent a flowchart-like structure where each internal node represents a decision based on a feature, each branch represents the outcome of that decision, and each leaf node represents the final decision or outcome. Decision trees are easy to interpret and understand, making them particularly useful for explaining the reasoning behind classification decisions.
 2. Navie Bayes: Naive Bayes is a probabilistic classification algorithm based on Bayes' theorem with the "naive" assumption of independence between features. It calculates the probability of each class given a set of features and selects the class with the highest probability.
