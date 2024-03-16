@@ -1,7 +1,9 @@
 # Data-Mining-in-KNIME-
 Analyzing various datamining algorithms on datasets
 The algorithms used are:
-1. Decision Tree
-2. Navie Bayes
-3. FP Tree
+1. Decision Tree: They represent a flowchart-like structure where each internal node represents a decision based on a feature, each branch represents the outcome of that decision, and each leaf node represents the final decision or outcome. Decision trees are easy to interpret and understand, making them particularly useful for explaining the reasoning behind classification decisions.
+2. Navie Bayes: Naive Bayes is a probabilistic classification algorithm based on Bayes' theorem with the "naive" assumption of independence between features. It calculates the probability of each class given a set of features and selects the class with the highest probability.
+3. FP Tree: FP-Growth (Frequent Pattern Growth) is an efficient algorithm used for frequent itemset mining and association rule learning in data mining tasks. FP-Growth constructs a compact data structure called an FP-tree, which represents the frequency of itemsets in a dataset. By recursively mining frequent itemsets from the FP-tree, it efficiently identifies patterns and associations in large datasets.
+4. K Means: K-means is a unsupervised clustering algorithm used to partition a dataset into K distinct clusters. It works by iteratively assigning each data point to the nearest cluster centroid and then updating the centroids based on the mean of the data points assigned to each cluster. K-means aims to minimize the within-cluster variance, resulting in clusters that are as internally homogeneous as possible.
+5. K Medoid: K-medoids is a variant of K-means clustering that uses medoids (representative objects) instead of centroids. Unlike K-means, which computes the mean of data points to update centroids, K-medoids selects actual data points from the dataset as medoids and minimizes the dissimilarity between data points and their assigned medoids. K-medoids is more robust to outliers and noise compared to K-means, making it suitable for datasets with non-linear or irregular cluster shapes.
 
